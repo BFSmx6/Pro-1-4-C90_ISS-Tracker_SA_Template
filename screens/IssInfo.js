@@ -25,7 +25,7 @@ render() {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Loading</Text>
+                <Text>Cargando</Text>
             </View>
         )
     } else {
